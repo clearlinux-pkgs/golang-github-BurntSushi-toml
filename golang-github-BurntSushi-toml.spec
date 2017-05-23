@@ -4,7 +4,7 @@
 #
 Name     : golang-github-BurntSushi-toml
 Version  : bbd5bb678321a0d6e58f1099321dfa73391c1b6f
-Release  : 6
+Release  : 7
 URL      : https://github.com/BurntSushi/toml/archive/bbd5bb678321a0d6e58f1099321dfa73391c1b6f.tar.gz
 Source0  : https://github.com/BurntSushi/toml/archive/bbd5bb678321a0d6e58f1099321dfa73391c1b6f.tar.gz
 Summary  : No detailed summary available
